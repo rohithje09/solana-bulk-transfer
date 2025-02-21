@@ -1,0 +1,4 @@
+wallet_*.json
+wallets.txt
+__pycache__/
+.env
